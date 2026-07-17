@@ -97,7 +97,6 @@ Find-Movie-Similarity-from-Plot-Summaries/
 │
 ├── notebook.ipynb          # Complete project notebook
 ├── README.md               # Project documentation
-├── requirements.txt        # Python dependencies (optional)
 └── dataset/                # Movie dataset (if included)
 ```
 
